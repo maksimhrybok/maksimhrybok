@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">🛠 Hard skills:</h3>
+<h3 align="left">🛠 My Skills:</h3>
 
 ###
 
