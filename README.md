@@ -15,7 +15,7 @@
 ###
 
 <p align="left">As a budding programmer independently mastering web development, I am proficient in C#, JavaScript, React and have already gained experience in creating a number of great projects based on them. Continuous self-learning is an integral part of my development process. I am only at the beginning of this exciting journey, and I am confident that even more interesting and captivating challenges lie ahead of me.</p>
-<br>- 📚 Completed courses HTML/CSS/JavaScript, C#, Unity on Udemy.com.<br>
+<br>- 📚 Completed courses HTML/CSS/JavaScript, React, C#, Unity on Udemy.com.<br>
 
 ###
 <!--
