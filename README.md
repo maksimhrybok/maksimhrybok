@@ -14,15 +14,15 @@
 
 ###
 
-<p align="left">As a budding programmer independently mastering web development, I am proficient in HTML, CSS, and JavaScript, and have already gained experience in creating a number of great projects based on them. Continuous self-learning is an integral part of my development process. I am only at the beginning of this exciting journey, and I am confident that even more interesting and captivating challenges lie ahead of me.</p>
-<br>- 📚 Completed courses HTML/CSS/JavaScript on Udemy.com. And I am now diving into learning React.js.<br>
+<p align="left">As a budding programmer independently mastering web development, I am proficient in C#, JavaScript, React and have already gained experience in creating a number of great projects based on them. Continuous self-learning is an integral part of my development process. I am only at the beginning of this exciting journey, and I am confident that even more interesting and captivating challenges lie ahead of me.</p>
+<br>- 📚 Completed courses HTML/CSS/JavaScript, C#, Unity on Udemy.com.<br>
 
 ###
 
 <h3 align="left">🛠 My Skills:</h3>
 
 ###
-
+<!--
 <div align="left">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -30,6 +30,7 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   
 </div>
+-->
 
 ###
 
